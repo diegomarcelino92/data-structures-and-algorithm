@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-and-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insertion-sort.js",
+  "type": "module",
+  "scripts": {
+    "bubble": "node bubble-sort.js",
+    "selection": "node insertion-sort.js",
+    "insertion": "node selection-sort.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
